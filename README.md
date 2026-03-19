@@ -60,14 +60,6 @@ I am a 3rd-year BS Computer Science student from the University of the Philippin
 - Wildlife photographer and researcher
 - Always learning and exploring new technologies
 
-## Contact
-
-- Email: [eulinnormanenricocatalan@gmail.com](mailto:eulinnormanenricocatalan@gmail.com)
-- LinkedIn: [norman-enrico-c-eulin](https://www.linkedin.com/in/norman-enrico-c-eulin/)
-- ResearchGate: [Norman-Enrico-Eulin](https://www.researchgate.net/profile/Norman-Enrico-Eulin)
-- iNaturalist: [Profile](https://www.inaturalist.org/home)
-- GitHub: [normaneulin](https://github.com/normaneulin)
-
 ---
 
 <!--
